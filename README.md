@@ -1,6 +1,6 @@
-# AdminLTE-dynamic-Menu-from-Database
+﻿# AdminLTE Starter Kit for ASP.NET Core
 
-# AdminLTE-dynamic-Menu-from-Database is a boilerplate projects for ASP.NET Core Web Applications with a modern UI (based on [AdminLTE](https://adminlte.io) by Abdullah Almasaeed).
+**AdminLTE Starter Kit** is a boilerplate projects for ASP.NET Core Web Applications with a modern UI (based on [AdminLTE](https://adminlte.io) by Abdullah Almasaeed).
 
 ![](docs/images/AdminLTE2.1.png)
 
